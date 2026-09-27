@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise EPC PMIS",
+  "description": "Executive Portfolio Control Room for National Petrochemical & Industrial Corp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
